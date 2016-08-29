@@ -19,6 +19,9 @@
     self.view.backgroundColor = [UIColor redColor];
     NSLog(@"xxxxxxxxxxx");
     NSLog(@"branch");
+    for (<#initialization#>; <#condition#>; <#increment#>) {
+        <#statements#>
+    }
 }
 
 - (void)didReceiveMemoryWarning {
